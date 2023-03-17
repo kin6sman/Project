@@ -1,0 +1,31 @@
+body {
+  color: #000007;
+}
+
+.container {
+  background-color: #e46d31;
+  height: 100vh;
+  width: 97vw;
+  
+  text-align: center;
+
+}
+
+.wrapper {
+  position: relative;
+  top: 40%
+}
+
+.wrapper p {
+  font-size: 30px;
+}
+
+button {
+  background-color: cadetblue;
+  border-radius: 5px;
+  padding: 8px;
+  border: 1px solid black;
+  outline: 0;
+  transition: all 1s ease;
+  margin-right: 10px;
+}
